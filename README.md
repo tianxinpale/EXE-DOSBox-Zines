@@ -12,7 +12,7 @@
 3.DOSBox（虚拟 DOS 环境）：运行 .COM/.EXE（仅限VMware workstation！）
 
 
-#使用 DOSBox 运行 29A#1.EXE：杂志主程序（带翻页界面） 详细步骤
+#抛弃：使用 DOSBox 运行 29A#1.EXE：杂志主程序（带翻页界面） 详细步骤；用https://mirror.gpmidi.net/vx-underground/Archive/Collections/Ezine%20Collection/下载的包直接打开index.html就能在浏览器查看杂志了
 A. Windows系统下安装 DOSBox
 
 下载最新版 DOSBox（推荐 [DOSBox 0.74-3](https://www.dosbox.com/download.php?main=1) 或 https://dosbox-x.com/）
